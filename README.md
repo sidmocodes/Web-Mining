@@ -1,2 +1,2 @@
 # Web-Mining
-Has all my Web mining lab codes
+My CSE3024 (Web Mining) Lab codes
