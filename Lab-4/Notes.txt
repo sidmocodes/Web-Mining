@@ -1,1 +1,2 @@
 http://brandonrose.org/clustering
+https://www.geeksforgeeks.org/python-pandas-working-with-text-data/
